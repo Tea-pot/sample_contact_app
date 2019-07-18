@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sample_contact_app/static/css/main.36497136.chunk.css",
+    "main.js": "/sample_contact_app/static/js/main.4b62f687.chunk.js",
+    "main.js.map": "/sample_contact_app/static/js/main.4b62f687.chunk.js.map",
+    "runtime~main.js": "/sample_contact_app/static/js/runtime~main.9e02cb78.js",
+    "runtime~main.js.map": "/sample_contact_app/static/js/runtime~main.9e02cb78.js.map",
+    "static/css/2.fc695b0e.chunk.css": "/sample_contact_app/static/css/2.fc695b0e.chunk.css",
+    "static/js/2.dbf0cb78.chunk.js": "/sample_contact_app/static/js/2.dbf0cb78.chunk.js",
+    "static/js/2.dbf0cb78.chunk.js.map": "/sample_contact_app/static/js/2.dbf0cb78.chunk.js.map",
+    "index.html": "/sample_contact_app/index.html",
+    "precache-manifest.64a5018dba454664f2271346a5378df3.js": "/sample_contact_app/precache-manifest.64a5018dba454664f2271346a5378df3.js",
+    "service-worker.js": "/sample_contact_app/service-worker.js",
+    "static/css/2.fc695b0e.chunk.css.map": "/sample_contact_app/static/css/2.fc695b0e.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/sample_contact_app/static/css/main.36497136.chunk.css.map"
+  }
+}
